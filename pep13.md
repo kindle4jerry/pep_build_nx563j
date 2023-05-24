@@ -15,7 +15,7 @@ Download or git clone these repositories and add to your peplus project.(use pep
 <https://github.com/kindle4jerry/android_device_nubia_nx563j>  
 <https://github.com/kindle4jerry/android_device_nubia_msm8998-common>  
 <https://github.com/kindle4jerry/android_kernel_nubia_msm8998>  
-<https://github.com/kindle4jerry/android_vendor_nubia-pep>  
+<https://github.com/kindle4jerry/android_vendor_nubia-pep> put it on vendor/nubia  
 ### Patching
 This repository provides some patches for PixelExperiencePlus build.  
 Use "git am" to apply these patches.  
